@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name teensy)(type Legacy)(uri K:/krm/keyboard/board/teensy_library/teensy.lib)(options "")(descr ""))
+  (lib (name dk_Interface-I-O-Expanders)(type Legacy)(uri K:/krm/keyboard/board/digikey-kicad-library/digikey-symbols/dk_Interface-I-O-Expanders.lib)(options "")(descr ""))
+)
